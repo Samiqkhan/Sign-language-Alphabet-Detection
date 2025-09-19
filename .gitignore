@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+
+# Generated model files
+logs/
+
+# Downloaded base model
+inception-2015-12-05.tgz
+
+# Large image dataset
+dataset/
+
+# Python cache files
+__pycache__/
+*.pyc
