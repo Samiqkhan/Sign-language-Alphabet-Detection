@@ -4,7 +4,13 @@ A computer vision project that uses a deep learning model to recognize and trans
 
 ---
 
-## Live Demo
+## Screenshots
+
+
+<img width="1894" height="985" alt="image" src="https://github.com/user-attachments/assets/d03b18b6-1f7c-43bb-831e-2202e449ef7a" />
+
+
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/e1ad8497-ce16-46b9-b032-5dce78b0c3c1" />
 
 
 
