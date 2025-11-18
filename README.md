@@ -40,8 +40,3 @@ A computer vision project that uses a deep learning model to recognize and trans
 
 The application captures video frames using OpenCV. Each frame is processed and fed into a pre-trained Convolutional Neural Network (CNN), which predicts the corresponding ASL letter. The model was trained using transfer learning, which significantly reduced the training time while maintaining high accuracy.
 
----
-
-## Acknowledgements
-
-This project was developed by building upon the foundational code from the [original repository by loicmarie](https://github.com/loicmarie/sign-language-alphabet-recognizer).
